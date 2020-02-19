@@ -1,0 +1,27 @@
+body,html {
+    background-color: rgb(0, 43, 233);
+    color: rgb(0, 0, 0);
+    margin: 25px;
+    padding: 0;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+.app{
+    background-image: url('../img/vtvrSoL.png');
+    background-size: 100%;
+    background-position-y: center;
+    padding: 25px;
+    transition: 0.4s ease-out;
+}
+
+
+.hot{
+    background-image: url('../img/vtvrMoon.png');
+    background-size: 100%;
+    
+    padding: 25px;
+    transition: 0.4s ease-out;
+}
+
